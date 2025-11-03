@@ -1,0 +1,7 @@
+telethon
+google-generativeai
+colorama
+rich
+aiohttp
+certifi
+qrcode
